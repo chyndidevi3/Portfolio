@@ -8,3 +8,6 @@ This analysis project aims to analyze how some lifestyles can influence people's
 
 ## Data Visualization with Tableau
 Creating Dashboard with Tableau 
+[See Dashboard 1](https://public.tableau.com/shared/R8TQ6CBPJ?:display_count=n&:origin=viz_share_link)
+[See Dashboard 2](https://public.tableau.com/views/C3_Case1/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[See Dashboard 3](https://public.tableau.com/views/AirBnB_FullProject_16785162410950/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
