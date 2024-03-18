@@ -15,3 +15,6 @@ Creating Dashboard with Tableau
 - [See Dashboard 1](https://public.tableau.com/shared/R8TQ6CBPJ?:display_count=n&:origin=viz_share_link)
 - [See Dashboard 2](https://public.tableau.com/views/C3_Case1/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 - [See Dashboard 3](https://public.tableau.com/views/AirBnB_FullProject_16785162410950/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+## Loan Transaction Analysis with SAS
+This project aims to analyze customers's behavior in repaying their loans, so it will help us understand the repayment's trends and other problems that will be solved in this project. There were 14 problems that were solved using SAS. Unfortunately, I can't share the original dataset here because the data is confidential and not for public use.
